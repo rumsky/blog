@@ -30,13 +30,18 @@ const IndexPage = () => (
           <li>UI Design</li>
         </ul>
       </div>
-      <span>公众号：morethanfe</span>
+
       <div></div>
     </div>
     <div className="footer">
       <div className="footer-right">
         <p style={{ marginTop: 0, marginBottom: 0 }}>水光潋滟晴方好</p>
         <p>山色空蒙雨亦奇</p>
+
+        <div>
+          <div className="underline"></div>
+          <span>公众号：morethanfe</span>
+        </div>
       </div>
     </div>
   </div>
