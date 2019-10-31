@@ -30,7 +30,7 @@ const IndexPage = () => (
           <li>UI Design</li>
         </ul>
       </div>
-      <img src={Image} alt="微信公众号：不唯前端" className="qr-code" />
+      <span>公众号：morethanfe</span>
       <div></div>
     </div>
     <div className="footer">
