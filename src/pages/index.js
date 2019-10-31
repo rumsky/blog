@@ -39,7 +39,6 @@ const IndexPage = () => (
         <p>山色空蒙雨亦奇</p>
 
         <div>
-          <div className="underline"></div>
           <span>公众号：morethanfe</span>
         </div>
       </div>
